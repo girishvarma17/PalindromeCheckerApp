@@ -20,7 +20,7 @@
  * @version 1.0
  */
 
-public class UseCase1PalindromeCheckerApp {
+public class UC1PalindromeCheckerApp {
 
     /**
      * Application entry point.
