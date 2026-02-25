@@ -1,6 +1,5 @@
-# PalindromeCheckerApp
-Program starts
-Hardcoded string is checked
-Result is printed
-Program exits
-Hard Code Palindrome - USE CASE 2
+# UC3
+Reverse string using loop
+Compare original and reversed
+Display result
+Palindrome Check using string reverse - USE CASE 3
